@@ -9,7 +9,7 @@ Me chamo Jean Felipe Moreira, tenho 21 anos e sou natural de Campo Largo - Paran
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ojeanfeli-pe?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/ojeanfeli-pe?tab=followers">
